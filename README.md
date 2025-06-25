@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asmit Kumar Roya</h1>
+<h1 align="center">Hi 👋, I'm Asmit Kumar Roy </h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitkumarroy&label=Profile%20views&color=0e75b6&style=flat" alt="asmitkumarroy" /> </p>
